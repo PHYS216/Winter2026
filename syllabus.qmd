@@ -1,0 +1,293 @@
+---
+title: "Syllabus"
+format: 
+  html:
+    toc: true
+    link-external-newwindow: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    self-contained: true
+editor: source
+---
+## Who is the professor?
+
+I'm Casey Berger and this is my second year at Bates College. At Bates, I've taught PHYS 211, PHYS 216, PHYS 301, PHYS 308, and PHYS 409. Before Bates, I was at Smith College in Physics and Statistical and Data Sciences. And long before that -- before I went to school for physics and computational science -- I studied philosophy, film production, and Spanish and worked in the film industry. It took me a long time to find my way to physics, but I wouldn't change any of it. The long and winding path taught me so much more about who I am, what I am capable of, and how many opportunities are available in the world. It also taught me that it's never too late to find a new passion or change your career direction.
+
+My research involves applying high performance computing and data science techniques to many-body quantum systems, which just means studying how medium-to-large numbers of quantum objects like electrons, neutrons, or atoms interact with each other and their environment. This sounds straightforward, but unfortunately the mathematics of quantum mechanics means these problems become impossible to solve by hand and extremely challenging to solve even with high powered computers when the system is still only a few particles. 
+
+Outside of physics, I am a person with lots of interests and hobbies. I love being outdoors in all seasons, but also love reading a book inside with a cup of tea. Ask me for book recommendations, recipes for interesting food, or great hikes in Maine!
+
+## Classroom expectations {#classexpectations}
+
+::: panel-tabset
+### What you can expect from me
+
+-   I will stay home if I am feeling sick and make arrangements to deliver the course material
+-   I will work with you to arrange accommodations when you need them
+-   I will respect your time by starting and ending class on time
+-   I will answer your questions thoughtfully, and if I don't know the answer, I will follow up in a timely manner
+-   I will embrace who you are as whole people
+-   I will model respect, openness, and engagement, and foster a supportive and inclusive environment
+-   I will be honest when I make mistakes, because failure is part of growing
+
+### What I expect from you
+
+-   That you will stay home if you are sick and contact me via email to arrange accommodations
+-   That you genuinely attempt to engage with the course
+-   That you ask questions if you are confused (you may do this privately -- there is no obligation to ask during class hours)
+-   That you communicate with me when you have problems that interfere with your ability to engage with the coursework
+-   That you treat your peers with respect and openness, and that you participate in creating an inclusive, supportive, and engaged classroom
+
+### What is not expected
+-   Perfection. Ever. It's a myth.
+-   That you will 'sit still' or ask for permission to leave the classroom to go to the bathroom or if you just need a minute.
+-   That everyone will learn in the same way. You do not have to match some "model student" to do well in this class
+:::
+
+## Deadlines and Extensions {#deadlines}
+If you need an extension, you may request one using [this form](https://forms.gle/eFx7y7FoSdoukKGC6). I recognize that things come up and you may require flexibility at some point in the semester. Please feel free to reach out to me directly if you are struggling to meet a deadline. I want to support you and make sure you have the best possible chance for success in this class, and the only way I can help is if you communicate with me. Extension requests are always due before the deadline. Work submitted after the deadline without an approved extension will not be graded.
+
+In general, I am happy to be flexible. Please note, however, that some assignments will have stricter deadlines, which are discussed in their descriptions above.
+
+
+## Technology Policy {#techpolicy}
+
+
+### Use of LLMs {#llms}
+Large Language Models (LLMs) are here to stay, but we should be discerning about how we use them. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, I only require two things:
+
+1.    That you do a little reading on Large Language Models. Specifically, read 
+
+-   [this article about how LLMs actually work](https://stackoverflow.blog/2023/07/03/do-large-language-models-know-what-they-are-talking-about/) 
+-    [this article about the ethical considerations around LLMs and intellectual property](https://montrealethics.ai/what-lies-behind-agi-ethical-concerns-related-to-llms/)
+
+- [this article about just one of the many environmental impacts of LLMs](https://heated.world/p/data-centers-arent-just-guzzling)
+
+2.    That you consider the LLM a source that you must cite. If you use generative AI to help with any assignment, you **must** acknowledge that help and give a short (two-sentence) description of what the LLM did for you and how it helped you solve the problem.
+
+Remember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to "hallucinating" (making stuff up, often in a way that is convincing but still false). They can't do creative problem solving, which is the most important skill we are trying to develop in this class.
+
+### Use of technology during class time {#distractions}
+Technology is completely infused into our lives, and I'm not trying to convince anyone to stop using it. As a computational physicist, it's my literal vocation to use digital technology, and as a teacher, I spend many hours a day staring at my screen to write lesson plans and respond to emails. But it's important to know that as useful a tool as technology is, it can also inhibit us. 
+
+First, the science. While we all believe ourselves to be excellent multitaskers (okay maybe that's hyperbole), studies show that we can't actually focus on more than one thing at a time - what we are doing is actually rapidly task switching between one task and the next, and that [task switching takes time and energy, making us do both tasks more poorly](https://www.apa.org/topics/research/multitasking). This means that if you're toggling between your email, social media, text messages, or whatever other content might be up on your laptop, phone, or tablet in class, you are going to have a harder time learning the content in class *and* a harder time doing whatever else you are trying to do. In addition, studies have found that [merely being in the presence of our smartphones can cause us to be distracted by them](https://www.journals.uchicago.edu/doi/full/10.1086/691462). 
+
+I have found this to be extremely true, and as a general rule, if I'm working on something that requires my focus, such as writing a lesson plan or working on research projects, I have a box in my office that I put my phone in so I can't be distracted by it. 
+
+Our goal in this class is to learn, and class time is an important time set aside for us to meet together in community to work towards the learning goals. In order to make sure you get the most out of that time, and to help support your classmates to not be distracted, I ask that you do the following:
+
+-   Keep your phone on silent and out of view throughout the duration of class
+-   Close all windows on your laptop or tablet that are not either your notes for the class, the Lyceum page or website for the class, a Mathematica notebook, or a PDF of the textbook
+
+If the second one feels intimidating (what if you lose a window that was important for something you need to do later?), look into browser extensions that allow you to save tabs for later, like [Mozilla Session Manager for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/) or [OneTab for Chrome](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-app-launcher-search).
+
+All that said, I recognize that sometimes we have situations that require us to be reachable, so if you have a special circumstance that means you need to be able to take a call when it comes in, please talk to me about an exception to this policy.
+
+Since this policy is intended to support all members of the community, I will ask that we all work together to encourage each other to remain present during our class time. To do this, here is how we will put this policy into practice:
+
+-   If you find yourself distracted by something on your computer, please 
+    1. acknowledge it 
+    2. apologize if this occurred during group work (this doesn't have to be a drawn out apology, just "I'm sorry, I got distracted, but I'm back now") 
+    3. remove the distraction and return your attention to class.
+-   If you notice your classmate is distracted, please 
+    1. acknowledge what you see gently ("Hey, I notice you're checking your email right now")
+    2. thank them for returning their attention to the task at hand
+    3. move ahead with what you were doing (don't make it a big event)
+-   If I notice someone is distracted once (including having tabs open that are not relevant to the class), I will
+    1. acknowledge it as discreetly as I can
+    2. ask you to close the distraction
+-   If I notice someone is repeatedly distracted by the same thing during one class session, I will
+    1. note the previous instances
+    2. ask you to put away whatever device the distraction was on. If this means you need paper to take notes on, I will provide that.
+-   If the distraction recurs over the course of the semester, it will affect your community engagement grade
+
+
+## Assignments and Grading {#grading}
+
+Assignments fall into "bundles," which contribute to your grade equally. Your performance on each bundle determines your base grade (by averaging the grade in each bundle using the 4-point GPA scale). Beyond that, you can achieve grade boosts, which round your grade up, e.g. from a B to a B+, or a B+ to an A-.
+
+You can learn more about each bundle below:
+
+[Practice](#practice)
+
+[Pair Programming](#pairprogramming)
+
+[Final Project](#finalproject)
+
+[Excellence](#excellence)
+
+
+### Grading Scheme {#gradingscheme}
+
+At the end of the term, you will earn a letter grade for this course. That letter grade will be determined following the Four-Square grading chart (below). Each square represents a grading bundle, and you can earn a score of 0-4 for each bundle. At the end of the term, I will calculate an average score for you using the following equation: 
+
+Overall Score = (Practice score + Pair Programming score + Final Project score + Excellence score) / 4
+
+![](images/PHYS216foursquare.jpg){width=800}
+The resulting overall score will correspond to a letter grade using the percentage table below:
+
+| Letter Grade	| Percentage |
+|--------------|--------------|
+|A+	    |   97-100%	    |
+|A	    |   93-96.9%    |
+|A-	    |   90-92.9%    |
+|B+	    |   87-89.9%    |
+|B	    |   83-86.9%    |
+|B-	    |   80-82.9%    |
+|C+	    |   77-79.9%    |
+|C	    |   73-76.9%	  |
+|C-	    |   70-72.9%    |
+|D+	    |   67-69.9%    |   
+|D	    |   63-66.9%    |
+|D-	    |   60-62.9%    |
+|F	    |   less than 60%	|
+: Grade table  {.striped .hover}
+
+You can then get up to three grade boosts, each of which rounds your grade up (e.g from a B to B+ or from an A- to A). The [grade boosts](#boosts) are described more below.
+
+If, for example, you achieved a 3 in Practice, a 4 in Pair Programming, a 3 in Final Project, and got a total of 5 "Es", your base grade would be (3.0 + 4.0 + 3.0 + 3.0)/16 = = 81.3%, which would be a B-. With round-ups, your grade could go up to a B, B+, or A-.
+
+
+### Grading scales
+
+::: panel-tabset
+#### Points
+Homeworks will be graded on a points scale. 
+
+#### Completion
+Some components of the final project are graded on "Completion" meaning simply that you completed the task as described within the required timeframe.
+
+#### E/M/R/N {#emrn}
+Pair programming, individual projects, and the final project proposal and final product are graded on this scale
+
+- E: exceeds expectations
+- M: meets expectations 
+- R: revise / retry
+- N: no submission 
+
+E and M are considered passing grades. The number of Es you get will contribute to your overall grade (see the [grading scheme](#gradingscheme))
+
+R and N are considered failing grades. 
+
+Under no circumstances can you revise something you receive an N on. Remember that done is better than perfect -- turn your work in so you can receive feedback.
+:::
+
+
+### Grading bundles {#assignments}
+
+::: panel-tabset
+#### Practice {#practice}
+
+HWs:  Regular practices is very important to developing confidence and skill in this content, so you will have a number of homeworks in this class (due approximately weekly). These are graded on a points scale.
+
+You may request extensions on the HWs using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6).
+
+| Points  | Requirements                  |
+|------|--------------------|
+| 4.0     | Earn >= 90% average on HWs         |
+| 3.0     | Earn >= 80% average on HWs      |
+| 2.0     | Earn >= 70% average on HWs        |
+| 1.0     | Earn >= 60% average on HWs         |
+| 0.0     | Under a 60% average on HWs       |
+: Bundle grades {.striped .hover}
+
+
+#### Pair Programming {#pairprogramming}
+Three times during the semester, you will be put in a group of 2 (or occasionally 3 if we have an odd number) and asked to solve a problem using Python and the skills you've built throughout the class. This assessment occurs in two parts:
+
+1. Part one: you and your partner(s) attempt to solve the task at hand. This part is during class time, and it is open-everything (all resources available at your disposal, but don't forget the [AI policy](#llms))
+2. Part two: one week later, I will give you and your partner a printout of the code you wrote the previous week, and I will ask you to document it by hand, entirely closed note/closed computer.
+
+These are graded on an [E/M/R/N scale](#emrn), and here is how grading will go:
+
+-   If your initial work in part one does not succeed in achieving the task, you will receive a tentative R. If, during part two, you are able to correctly identify and discuss what went wrong and how you might fix it, you will receive an M
+
+-   If you succeed in achieving the task in part one, you will not receive a grade yet. You must still be able to explain your work in part two to receive an M, but if your explanation is particularly thorough and insightful, you will receive an E
+
+-   If you receive an R, you and your partner(s) will have one week to retry part one on your own time (outside of class). You will submit your reattempt to Lyceum, I will print it, and there will be a day in class reserved to retry part two.
+
+As always, if you receive an N, you cannot retry. So if you have to miss the class period when we are doing this work, please let me know in advance so we can work out an alternative for you.
+
+
+| Points  | Requirements    |
+|------|--------------------|
+| 4.0   | At least M on all 3 |
+| 3.0   | At least M on 2     |
+| 2.0   | At least M on 1     |
+| 1.0   | All tests attempted (all Rs)  |
+| 0.0   | Any N grades         |
+: Bundle grades {.striped .hover}
+
+#### Final Project {#finalproject}
+
+By the end of this class, you will have some experience in using Python to solve problem and in thinking algorithmically, so your final project is an opportunity to apply some of the things we learn in this class to a question in physics. This project is designed to be open-ended: you can decide what kind of question you want to tackle, and we will work together to help you do that. In the past, I have had students program a 3-body simulation, record video of squash balls hitting the wall and used kinematics to try to determine the "squishiness", create a engineering-focused materials categorization database, and fit astronomical data to calculate an exoplanet transit, just to name a few.
+
+Since there is so much freedom, I’m building a lot of scaffolding into the process, and that scaffolding will be the basis of the grade. So if you want to take a big risk and try something new, you don’t have to worry that if it doesn’t go well, you will fail. The scaffolding is detailed on Lyceum, and there are five parts: 
+
+- the pitch
+- the proposal
+- the progress report
+- the prototype
+- the final product
+
+While everything is graded on "completion," I reserve the right to give a bonus "E" grade on the final presentation and write-up for projects that go above and beyond. This "E" counts toward the [Excellence](#excellence) grade bundle.
+
+A note on what I mean by "complete" -- this must be your own original work to count. Even if the project doesn't get where you want it to, it cannot be AI-generated or plagiarized in any other way. If you wish to use AI as part of the project, you must talk to me about it (e.g. in your pitch and/or proposal), and we must agree on an acceptable use of the technology before you can use it. 
+
+| Points  | Requirements    |
+|------|--------------------|
+| 4.0   | Complete all 5 components |
+| 3.0   | Complete the proposal and final product, plus any 2 other components  |
+| 2.0   | Complete the proposal and final product, plus any 1 other component  |
+| 1.0   | Complete the proposal and final product |
+| 0.0   | Proposal and/or final product are not completed |
+
+#### Excellence {#excellence}
+There are 4 potential "E" grades you can earn in this class: 3 unit tests and the final project. Every "E" you receive will be counted in this category and goes toward your final grade.
+
+| Points  | Requirements     |
+|------|--------------------|
+| 4.0    | 4 Es        |
+| 3.0    | 3 Es        |
+| 2.0    | 2 Es        |
+| 1.0    | 1 E         |
+| 0.0    | No Es       |
+: Bundle grades {.striped .hover}
+:::
+
+### Grading boosts {#boosts}
+
+Your base grade will be calculated from the table above, but you can round your grade up in a number of ways.
+
+I will apply as many grade boosts as you achieve, with one exception:
+
+You can only achieve an A+ in this class if you receive a base A grade. The A+ grade does not have an impact on your GPA, and so I am reserving it as a way of acknowledging especially excellent work across the course of the semester.
+
+::: panel-tabset
+
+#### Time Management 
+If you use no more than 3 extension requests all semester (on individual assignments), I will round your grade up.
+
+#### Growth 
+
+If you demonstrate consistent improvement in your work across the semester, I reserve the right to round your grade up.
+
+#### Metacognition 
+
+In order to get this boost, you must do 5 of the following 7 assignments:
+
+  -   Read an article on growth mindset and reflect on how it applies to your own life
+  -   Fill out the first week of class form before the end of January
+  -   Set a SMART goal (this will be evaluated on whether it meets the criteria) for a study skill to improve. You must do this before the end of January.
+  -   Fill out the mid-semester survey before the end of February Recess
+  -   Schedule an appointment with [a learning strategies tutor](https://www.bates.edu/student-academic-support-center/learning-strategies/) at SASC and write a reflection on one thing you learned at that meeting
+  -   Bring questions to SASC at least once and write a reflection about your experience
+  -   Come to my office hours at least once and write a reflection about your experience
+  -   Reflect on your SMART goal at the end of the semester
+  
+  These assignments will all be posted in Lyceum under the "Metacognition" tab.
+:::
+
+

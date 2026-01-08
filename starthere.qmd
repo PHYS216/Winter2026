@@ -1,0 +1,57 @@
+---
+title: "Start Here"
+format: 
+  html:
+    link-external-newwindow: true
+editor: source
+---
+
+Welcome to PHYS 216, Winter 2026!
+
+Not sure where to start? I've put together a guide.
+
+This website contains the syllabus, schedule, and FAQ. If you are looking for handouts, in-class activities, specific assignments, or class slides, those will all be in the course page in Lyceum. If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.
+
+# Get set up on Metis
+
+In order to reduce time delays due to software package incompatibilities and other potential frustrations, we will all work on the same JupyterHub system. This system is hosted at Bates college and makes it very easy to use Jupyter notebooks without having to install anything yourself. 
+
+To access Metis, just navigate to [metis.bates.edu](http://metis.bates.edu) in your web browser. You should see this:
+
+![](images/Metislogin.png){width=600}
+
+Click on “Sign in Here with RapidID” and log in with your Bates credentials.
+
+Now you should see a home directory with a GUI (Graphical User Interface) that allows you to create folders, upload and download files, open various code editors, and even use a terminal.
+
+You are welcome to open a Jupyter notebook and start practicing, but as long as you are able to log in successfully, you will be prepared for the first day of class!
+
+# Read the syllabus
+
+I've tried to make the syllabus relatively short, sweet, and well-organized. It's all on this website, so please take a minute to read the [syllabus page](syllabus.qmd).
+
+If you need help navigating to a specific topic in the syllabus, here's a rough outline:
+
+[Classroom Expectations](syllabus.qmd#classexpectations)
+
+[Deadline and Extension Policy](syllabus.qmd#extensions)
+
+[Technology and AI Policy](syllabus.qmd#techpolicy)
+
+[Grading Scheme](syllabus.qmd#grading)
+
+[Assignments](syllabus.qmd#assignments)
+
+# Keep an eye on the schedule
+
+The schedule for this class is in a [google sheet](https://docs.google.com/spreadsheets/d/1RjA9_LdSXy4BB5bSa1Y8FqFShpdxaWhbSPhmuD1-9xo/edit?usp=sharing) so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.
+
+# Still have questions?
+
+If you've read the syllabus and still have questions, check out the [FAQ](FAQ.qmd). If you have a question that's not answered on that page, please feel free to email me! I've tried to collect the kinds of questions I get the most to save you time, but I know that not all questions can be answered with this website and am always happy to hear from you.
+
+# Have concerns?
+
+I know it can be intimidating to talk to a professor about sensitive topics. If something has made you uncomfortable, or if you think there is something I should know about, but don't feel comfortable speaking with me directly, I have an [anonymous feedback form](https://forms.gle/h1dzxVJKPEVo3v467) you can fill out. 
+
+This form does not collect any identifying information (though you are welcome to leave your name if you want me to follow up with you). Please be respectful and thoughtful when filling out this form, as I use it to improve classroom dynamics and it's here to make everyone's experience better.
