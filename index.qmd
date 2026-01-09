@@ -1,5 +1,5 @@
 ---
-title: "PHYS 216 Winter 2026"
+title: "PHYS/DCS 216 Winter 2026"
 format: 
   html:
     link-external-newwindow: true

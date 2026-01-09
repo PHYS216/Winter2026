@@ -15,10 +15,6 @@ editor: source
 ## Content Resources {#contentresources}
 
 
-[Videos: Khan Academy's unit on multivariable calc](https://www.khanacademy.org/math/multivariable-calculus)
-
-[Videos: Khan Academy's unit on series and approximations](https://www.khanacademy.org/math/ap-calculus-bc/bc-series-new/bc-10-11/v/maclaurin-and-taylor-series-intuition)
-
 ## Study and Professional Skills Resources {#profdevresources}
 
 [Website: SASC General Study Strategies](https://www.bates.edu/student-academic-support-center/general-study-resources-and-strategies/)

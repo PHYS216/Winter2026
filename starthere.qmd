@@ -6,7 +6,7 @@ format:
 editor: source
 ---
 
-Welcome to PHYS 216, Winter 2026!
+Welcome to PHYS/DCS 216, Winter 2026!
 
 Not sure where to start? I've put together a guide.
 
@@ -14,7 +14,7 @@ This website contains the syllabus, schedule, and FAQ. If you are looking for ha
 
 # Get set up on Metis
 
-In order to reduce time delays due to software package incompatibilities and other potential frustrations, we will all work on the same JupyterHub system. This system is hosted at Bates college and makes it very easy to use Jupyter notebooks without having to install anything yourself. 
+In order to reduce time delays due to software package incompatibilities and other potential frustrations, we will all work on the same JupyterHub system. This system is hosted at Bates College and makes it very easy to use Jupyter notebooks without having to install anything yourself. 
 
 To access Metis, just navigate to [metis.bates.edu](http://metis.bates.edu) in your web browser. You should see this:
 
@@ -34,17 +34,16 @@ If you need help navigating to a specific topic in the syllabus, here's a rough 
 
 [Classroom Expectations](syllabus.qmd#classexpectations)
 
-[Deadline and Extension Policy](syllabus.qmd#extensions)
+[Deadline and Extension Policy](syllabus.qmd#deadlines)
 
 [Technology and AI Policy](syllabus.qmd#techpolicy)
 
-[Grading Scheme](syllabus.qmd#grading)
+[Grading Scheme and Assignments](syllabus.qmd#grading)
 
-[Assignments](syllabus.qmd#assignments)
 
 # Keep an eye on the schedule
 
-The schedule for this class is in a [google sheet](https://docs.google.com/spreadsheets/d/1RjA9_LdSXy4BB5bSa1Y8FqFShpdxaWhbSPhmuD1-9xo/edit?usp=sharing) so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.
+The schedule for this class is in a google sheet (link at the top of the page) so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.
 
 # Still have questions?
 

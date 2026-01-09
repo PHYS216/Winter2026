@@ -67,14 +67,17 @@ Large Language Models (LLMs) are here to stay, but we should be discerning about
 
 2.    That you consider the LLM a source that you must cite. If you use generative AI to help with any assignment, you **must** acknowledge that help and give a short (two-sentence) description of what the LLM did for you and how it helped you solve the problem.
 
-Remember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to "hallucinating" (making stuff up, often in a way that is convincing but still false). They can't do creative problem solving, which is the most important skill we are trying to develop in this class.
+Remember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to "hallucinating" (making stuff up, often in a way that is convincing but still false). You should always check their work, and you should always lean first on your own critical thinking and creative problem solving skills and consider an LLM to be a resource like the internet.
 
 ### Use of technology during class time {#distractions}
+
+This is a computational physics course, and we will spend all of class on our laptops or the classroom computers. But we should still be mindful of how we are using our technology. 
+
 Technology is completely infused into our lives, and I'm not trying to convince anyone to stop using it. As a computational physicist, it's my literal vocation to use digital technology, and as a teacher, I spend many hours a day staring at my screen to write lesson plans and respond to emails. But it's important to know that as useful a tool as technology is, it can also inhibit us. 
 
-First, the science. While we all believe ourselves to be excellent multitaskers (okay maybe that's hyperbole), studies show that we can't actually focus on more than one thing at a time - what we are doing is actually rapidly task switching between one task and the next, and that [task switching takes time and energy, making us do both tasks more poorly](https://www.apa.org/topics/research/multitasking). This means that if you're toggling between your email, social media, text messages, or whatever other content might be up on your laptop, phone, or tablet in class, you are going to have a harder time learning the content in class *and* a harder time doing whatever else you are trying to do. In addition, studies have found that [merely being in the presence of our smartphones can cause us to be distracted by them](https://www.journals.uchicago.edu/doi/full/10.1086/691462). 
+First, the science. While we all believe ourselves to be excellent multitaskers, studies show that we can't actually focus on more than one thing at a time - what we are doing is actually rapidly task switching between one task and the next, and that [task switching takes time and energy, making us do both tasks more poorly](https://www.apa.org/topics/research/multitasking). This means that if you're toggling between your email, social media, text messages, or whatever other content might be up on your laptop, phone, or tablet in class, you are going to have a harder time learning the content in class *and* a harder time doing whatever else you are trying to do. In addition, studies have found that [merely being in the presence of our smartphones can cause us to be distracted by them](https://www.journals.uchicago.edu/doi/full/10.1086/691462). 
 
-I have found this to be extremely true, and as a general rule, if I'm working on something that requires my focus, such as writing a lesson plan or working on research projects, I have a box in my office that I put my phone in so I can't be distracted by it. 
+I have found this to be true, and as a general rule, if I'm working on something that requires my focus, such as writing a lesson plan or working on research projects, I have a box in my office that I put my phone in so I can't be distracted by it. 
 
 Our goal in this class is to learn, and class time is an important time set aside for us to meet together in community to work towards the learning goals. In order to make sure you get the most out of that time, and to help support your classmates to not be distracted, I ask that you do the following:
 
@@ -101,7 +104,6 @@ Since this policy is intended to support all members of the community, I will as
 -   If I notice someone is repeatedly distracted by the same thing during one class session, I will
     1. note the previous instances
     2. ask you to put away whatever device the distraction was on. If this means you need paper to take notes on, I will provide that.
--   If the distraction recurs over the course of the semester, it will affect your community engagement grade
 
 
 ## Assignments and Grading {#grading}
@@ -123,7 +125,7 @@ You can learn more about each bundle below:
 
 At the end of the term, you will earn a letter grade for this course. That letter grade will be determined following the Four-Square grading chart (below). Each square represents a grading bundle, and you can earn a score of 0-4 for each bundle. At the end of the term, I will calculate an average score for you using the following equation: 
 
-Overall Score = (Practice score + Pair Programming score + Final Project score + Excellence score) / 4
+Overall Score = (Practice score + Pair Programming score + Final Project score + Excellence score) / 16
 
 ![](images/PHYS216foursquare.jpg){width=800}
 The resulting overall score will correspond to a letter grade using the percentage table below:
@@ -147,20 +149,20 @@ The resulting overall score will correspond to a letter grade using the percenta
 
 You can then get up to three grade boosts, each of which rounds your grade up (e.g from a B to B+ or from an A- to A). The [grade boosts](#boosts) are described more below.
 
-If, for example, you achieved a 3 in Practice, a 4 in Pair Programming, a 3 in Final Project, and got a total of 5 "Es", your base grade would be (3.0 + 4.0 + 3.0 + 3.0)/16 = = 81.3%, which would be a B-. With round-ups, your grade could go up to a B, B+, or A-.
+If, for example, you achieved a 3 in Practice, a 4 in Pair Programming, a 3 in Final Project, and got a total of 3 "Es", your base grade would be (3.0 + 4.0 + 3.0 + 3.0)/16 = 81.3%, which would be a B-. With round-ups, your grade could go up to a B, B+, or A-.
 
 
 ### Grading scales
 
 ::: panel-tabset
 #### Points
-Homeworks will be graded on a points scale. 
+Homeworks will be graded on a points scale using a rubric. 
 
 #### Completion
 Some components of the final project are graded on "Completion" meaning simply that you completed the task as described within the required timeframe.
 
 #### E/M/R/N {#emrn}
-Pair programming, individual projects, and the final project proposal and final product are graded on this scale
+Pair programming projects are graded on this scale
 
 - E: exceeds expectations
 - M: meets expectations 
@@ -198,6 +200,7 @@ You may request extensions on the HWs using the [extension form](https://forms.g
 Three times during the semester, you will be put in a group of 2 (or occasionally 3 if we have an odd number) and asked to solve a problem using Python and the skills you've built throughout the class. This assessment occurs in two parts:
 
 1. Part one: you and your partner(s) attempt to solve the task at hand. This part is during class time, and it is open-everything (all resources available at your disposal, but don't forget the [AI policy](#llms))
+
 2. Part two: one week later, I will give you and your partner a printout of the code you wrote the previous week, and I will ask you to document it by hand, entirely closed note/closed computer.
 
 These are graded on an [E/M/R/N scale](#emrn), and here is how grading will go:
@@ -243,6 +246,7 @@ A note on what I mean by "complete" -- this must be your own original work to co
 | 2.0   | Complete the proposal and final product, plus any 1 other component  |
 | 1.0   | Complete the proposal and final product |
 | 0.0   | Proposal and/or final product are not completed |
+: Bundle grades {.striped .hover}
 
 #### Excellence {#excellence}
 There are 4 potential "E" grades you can earn in this class: 3 unit tests and the final project. Every "E" you receive will be counted in this category and goes toward your final grade.
@@ -261,9 +265,7 @@ There are 4 potential "E" grades you can earn in this class: 3 unit tests and th
 
 Your base grade will be calculated from the table above, but you can round your grade up in a number of ways.
 
-I will apply as many grade boosts as you achieve, with one exception:
-
-You can only achieve an A+ in this class if you receive a base A grade. The A+ grade does not have an impact on your GPA, and so I am reserving it as a way of acknowledging especially excellent work across the course of the semester.
+I will apply as many grade boosts as you achieve.
 
 ::: panel-tabset
 
@@ -276,15 +278,13 @@ If you demonstrate consistent improvement in your work across the semester, I re
 
 #### Metacognition 
 
-In order to get this boost, you must do 5 of the following 7 assignments:
+In order to get this boost, you must do 4 of the following 6 assignments:
 
   -   Read an article on growth mindset and reflect on how it applies to your own life
-  -   Fill out the first week of class form before the end of January
   -   Set a SMART goal (this will be evaluated on whether it meets the criteria) for a study skill to improve. You must do this before the end of January.
-  -   Fill out the mid-semester survey before the end of February Recess
   -   Schedule an appointment with [a learning strategies tutor](https://www.bates.edu/student-academic-support-center/learning-strategies/) at SASC and write a reflection on one thing you learned at that meeting
-  -   Bring questions to SASC at least once and write a reflection about your experience
-  -   Come to my office hours at least once and write a reflection about your experience
+  -   Bring questions to SASC at least twice and write a reflection about your experience (submit two forms, one for each visit)
+  -   Come to my office hours at least twice and write a reflection about your experience (submit two forms, one for each visit)
   -   Reflect on your SMART goal at the end of the semester
   
   These assignments will all be posted in Lyceum under the "Metacognition" tab.
