@@ -9,5 +9,6 @@ editor: source
 | Date  | Change                  | Reason |
 |--------------|--------------------------------------|---------------------------------------------------|
 | Jan 14, 2026 | First version of syllabus | N/A | 
+| Jan 17, 2026 | Fixed rendering issue in FAQ  | Wasn't properly rendered |
 
 : Syllabus changes {.striped .hover}

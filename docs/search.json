@@ -342,6 +342,6 @@
     "href": "changelog.html",
     "title": "Changelog",
     "section": "",
-    "text": "Syllabus changes\n\n\n\n\n\n\n\nDate\nChange\nReason\n\n\n\n\nJan 14, 2026\nFirst version of syllabus\nN/A"
+    "text": "Syllabus changes\n\n\n\n\n\n\n\nDate\nChange\nReason\n\n\n\n\nJan 14, 2026\nFirst version of syllabus\nN/A\n\n\nJan 17, 2026\nFixed rendering issue in FAQ\nWasn’t properly rendered"
   }
 ]
