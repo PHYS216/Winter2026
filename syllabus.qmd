@@ -249,7 +249,7 @@ A note on what I mean by "complete" -- this must be your own original work to co
 : Bundle grades {.striped .hover}
 
 #### Excellence {#excellence}
-There are 4 potential "E" grades you can earn in this class: 3 unit tests and the final project. Every "E" you receive will be counted in this category and goes toward your final grade.
+There are 4 potential "E" grades you can earn in this class: 3 pair programming projects and the final project. Every "E" you receive will be counted in this category and goes toward your final grade.
 
 | Points  | Requirements     |
 |------|--------------------|
