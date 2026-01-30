@@ -11,5 +11,7 @@ editor: source
 | Jan 14, 2026 | First version of syllabus | N/A | 
 | Jan 17, 2026 | Fixed rendering issue in FAQ  | Wasn't properly rendered |
 | Jan 20, 2026 | Changed "unit tests" to "pair programming projects" in "Excellence" grade category | This was a copy-paste mistake! There are no unit tests in this class. Instead there are pair programming assignments | 
+| Jan 30, 2026 | Fixed typo in four square picture | This was another copy-paste mistake! The final project does not have a presentation - just a "final product" | 
+
 
 : Syllabus changes {.striped .hover}
